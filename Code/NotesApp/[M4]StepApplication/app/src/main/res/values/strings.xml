@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="course_name">Android programming</string>
+    <string name="course_description">Intermediate course introducing Android Programming principles using Android Studio and Java language. Recommend to learners with previous experience.</string>
+    <string name="home">Home</string>
+    <string name="github_repository">GitHub repository</string>
+    <string name="url_github_repo">https://github.com/kevinmala00/Android-Programming</string>
+</resources>

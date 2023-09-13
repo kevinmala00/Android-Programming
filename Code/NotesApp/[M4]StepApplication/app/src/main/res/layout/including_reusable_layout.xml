@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is a sample layout to explain <include> tag.
+This layout include: reusable_layout_with_include and show how to use standard include directive
+and also show how to override attributes,
+show also how to include a reusable layout with merge tag:reusable_layout_with_include-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Layouts below are included:"
+        android:gravity="center_horizontal"/>
+    <include layout="@layout/reusable_layout_with_include"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="you can also override attributes:"
+        android:gravity="center_horizontal"/>
+    <include
+        android:id="@+id/l_override_reusable_layout"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="end"
+        layout="@layout/reusable_layout_with_include"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Including a layout with merge tag:"
+        android:gravity="center_horizontal"/>
+    <include layout="@layout/reusable_layout_with_merge"/>
+</LinearLayout>

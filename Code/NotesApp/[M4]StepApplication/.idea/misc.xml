@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kevin/Desktop/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/Desktop/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/NotesApp/[M4]StepApplication/app/src/main/res/layout/activity_home.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/NotesApp/[M4]StepApplication/app/src/main/res/layout/activity_main_constraint_layout.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/NotesApp/[M4]StepApplication/app/src/main/res/layout/including_reusable_layout.xml" value="0.264" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/NotesApp/[M4]StepApplication/app/src/main/res/layout/reusable_layout.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/NotesApp/[M4]StepApplication/app/src/main/res/layout/reusable_layout_with_include.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/NotesApp/[M4]StepApplication/app/src/main/res/layout/reusable_layout_with_merge.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_main_constraint_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_main_linear_layout_horizontal.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_main_linear_layout_vertical.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_main_relative_layout.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_navigation.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/[M4]StepApplication/app/src/main/res/layout/activity_profile.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/drawable/round_shape.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_home.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_intro.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_intro_constraint_layout.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_intro_linear_layout_horizontal.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_intro_linear_layout_vertical.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_intro_scroll_view.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_main_constraint_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_main_frame_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_main_linear_layout_vertical.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_main_relative_layout.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_navigation.xml" value="0.4" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/activity_profile.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/prova.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/kevin/OneDrive - Unimore/3 ANNO/ATTIVITA-PROGETTUALE/Code/app/src/main/res/layout/sample.xml" value="0.11499493414387031" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
