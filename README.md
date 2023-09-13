@@ -10,7 +10,6 @@
 * [**Android developer official guide**](https://developer.android.com/guide)
 * [**Android developer official UI guide**](https://developer.android.com/develop/ui)
 * [**Android Studio official guide**](https://developer.android.com/studio/intro)
-* [Android official course](https://developer.android.com/courses) (video-lesson with exercises)
 
 ### Misc
 * [Google android source code (framework classes)](https://android.googlesource.com/platform/frameworks/base/) (e.g. to view core android components java classes: select master branch, core/ folder and then java/ folder)
@@ -23,6 +22,7 @@
 - Professional Android (advanced)
 
 ## Videos
+* [Android official course](https://developer.android.com/courses) (video-lesson with exercises)
 
 ## Slides, code examples
 Slides, and code examples can be found here and downloaded using git:
