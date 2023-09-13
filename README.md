@@ -53,9 +53,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 
 [M4] Activity, Intent and UI design
 * Application lifecycle and priority
-* Application core components (Activity, Services, Broadcast receiver, Content provider)
-* Activities & Intents
-* View hierarchy
-* ViewGroup - Layout (Linear, Constraint, Relative, ScrollView)
-* View - Widget (Androdid Widget toolbox)
+* Application core components
+* Activity & Intent
+* View & Layout
 * Events handling
