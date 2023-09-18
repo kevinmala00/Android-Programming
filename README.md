@@ -58,6 +58,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * View & Layout
 * Events handling
 
-[M5] Fragment and comunication between components
+[M5] More than activities
 * Fragment
+* 
 
