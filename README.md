@@ -57,3 +57,7 @@ Both slides and code examples might be updated or bug-fixed during the course. A
 * Activity & Intent
 * View & Layout
 * Events handling
+
+[M5] Fragment and comunication between components
+* Fragment
+
