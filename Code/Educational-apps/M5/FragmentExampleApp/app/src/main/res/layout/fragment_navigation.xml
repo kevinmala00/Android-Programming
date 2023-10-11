@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -7,19 +8,20 @@
     android:background="#FF0000">
 
     <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/fcv_firstchildfragment"
+        android:id="@+id/fcv_firstChildFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintBottom_toTopOf="@+id/fcv_secondchildfragment"
-        android:layout_marginBottom="5dp"/>
+        app:layout_constraintBottom_toTopOf="@+id/fcv_secondChildFragment"
+        android:layout_marginBottom="5dp"
+        />
     <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/fcv_secondchildfragment"
+        android:id="@+id/fcv_secondChildFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        app:layout_constraintTop_toBottomOf="@id/fcv_firstchildfragment"
+        app:layout_constraintTop_toBottomOf="@id/fcv_firstChildFragment"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"

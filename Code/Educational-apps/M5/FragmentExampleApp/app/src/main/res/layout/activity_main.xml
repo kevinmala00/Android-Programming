@@ -15,30 +15,36 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toTopOf="@id/et_firstname"/>
+        app:layout_constraintBottom_toTopOf="@id/et_firstname"
+        />
 
     <EditText
         android:id="@+id/et_firstname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="INSERT YOUR FIRST NAME"
+        android:minHeight="48dp"
         android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@id/et_secondname"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/fcv_navigationfragment"
-        app:layout_constraintBottom_toTopOf="@id/et_secondname"
-        />
+        app:layout_constraintTop_toBottomOf="@id/fcv_navigationfragment" />
+
     <EditText
         android:id="@+id/et_secondname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
         android:hint="INSERT YOUR SECOND NAME"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@id/ll_navigation"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/et_firstname"
-        app:layout_constraintBottom_toTopOf="@id/ll_navigation"
-        android:textAlignment="center"
-        />
+        app:layout_constraintTop_toBottomOf="@id/et_firstname" />
     <LinearLayout
         android:id="@+id/ll_navigation"
         android:layout_width="match_parent"
